@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@theme {
+  --font-family-league: "League Spartan", sans-serif;
+  --color-pink: hsl(333, 80%, 67%);
+  --color-magenta-100: hsl(300, 24%, 96%);
+  --color-magenta-400: hsl(303, 10%, 53%);
+  --color-magenta-700: hsl(300, 43%, 22%);
+}
